@@ -1,6 +1,6 @@
 #R for Data Science: Exercise Solutions
 #AUTHOR: Jeffrey B. Arnold
-#July 19, 2020
+#DATE: July 19, 2020
 #SOURCE: https://jrnold.github.io/r4ds-exercise-solutions/
 #-------------------------------------------------------------------------------------------------------------------------------------------
 #3 Data visualisation
@@ -781,7 +781,13 @@ p
 #3.10 The layered grammar of graphics
 #No exercises
 
+#References
+#Cleveland, William S. 1993a. “A Model for Studying Display Methods of Statistical Graphics.” Journal of Computational and Graphical Statistics 2 (4). Taylor & Francis: 323–43. https://doi.org/10.1080/10618600.1993.10474616.
+#Cleveland, William S. 1993b. Visualizing Information. Hobart Press.
+#Cleveland, William S. 1994. The Elements of Graphing Data. Hobart Press.
+#Cleveland, William S., Marylyn E. McGill, and Robert McGill. 1988. “The Shape Parameter of a Two-Variable Graph.” Journal of the American Statistical Association 83 (402). [American Statistical Association, Taylor & Francis, Ltd.]: 289–300. https://www.jstor.org/stable/2288843.
+#Heer, Jeffrey, and Maneesh Agrawala. 2006. “Multi-Scale Banking to 45º.” Ieee Transactions on Visualization and Computer Graphics 12 (5, September/October). https://doi.org/10.1109/TVCG.2006.163.
 
-
+#-------------------------------------------------------------------------------------------------------------------------------------------
 
 
